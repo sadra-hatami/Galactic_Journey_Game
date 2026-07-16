@@ -1,4 +1,4 @@
-# Galactic_Journey_Game
+# Galactic-Journey-Game
 
 ***
 
